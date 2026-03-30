@@ -8,21 +8,21 @@ Este es mi primer repositorio. Aquí empecé a trabajar con GitHub.
 ## ✅ Respuestas
  
 ### 🧪 ¿Qué hice aquí?
-(Respuesta)
+Crear mi primer repostorio
  
 ### 😮 ¿Qué es GitHub?
-(Respuesta)
- 
+
+Es una plataforma en la nube basada en Git
 ### 🎯 ¿Para qué me sirve?
-(Respuesta)
+
+Permite a desarrolladores almacenar, gestionar y colaborar en proyectos de código fuente
  
 ---
  
 ## ✍️ Mi progreso
-Aquí ya realicé varios cambios en GitHub.
- 
+Aquí ya realicé varias actualizaciones sobre e repositorio, actualmente voy 3.
 ---
  
 ## 👤 Sobre mí
-Nombre:
-Curso: 
+Nombre: Andrea Cueva
+Curso: Diploa 1B
