@@ -8,11 +8,11 @@ Este es mi primer repositorio. Aquí empecé a trabajar con GitHub.
 ## ✅ Respuestas
  
 ### 🧪 ¿Qué hice aquí?
-Crear mi primer repostorio
+Clone y abri mi repositorio
  
 ### 😮 ¿Qué es GitHub?
 
-Es una plataforma en la nube basada en Git
+Es una plataforma web  en la nube basada en Git
 ### 🎯 ¿Para qué me sirve?
 
 Permite a desarrolladores almacenar, gestionar y colaborar en proyectos de código fuente
@@ -20,7 +20,7 @@ Permite a desarrolladores almacenar, gestionar y colaborar en proyectos de códi
 ---
  
 ## ✍️ Mi progreso
-Aquí ya realicé varias actualizaciones sobre e repositorio, actualmente voy 3.
+Abri la aplicacion y luego modifique las respuestas
 ---
  
 ## 👤 Sobre mí
